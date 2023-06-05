@@ -652,7 +652,7 @@ table tr:hover {
 .site-header {
   height: 60px;
   position: relative;
-  background-color: #0078d9;
+  background-color: #b5dff7;
   overflow: hidden;
 }
 
@@ -672,7 +672,7 @@ table tr:hover {
   font-size: 36px;
   font-weight: 400;
   text-decoration: none;
-  color: #ffffff;
+  color: #0f0101;
 }
 
 .navigation-wrap {
