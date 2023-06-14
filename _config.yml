@@ -1,8 +1,8 @@
 # Site settings
 title: PPT
 description: property information
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lokmont-jekyll.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/property" # the subpath of your site, e.g. /blog
+url: "https://kimwoojin0081.github.io/property/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
 hero: 112.jpg
